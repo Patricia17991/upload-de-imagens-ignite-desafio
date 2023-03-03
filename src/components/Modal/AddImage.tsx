@@ -5,7 +5,7 @@ import {
   ModalHeader,
   ModalBody,
   ModalCloseButton,
-} from '@chakra-ui/react';
+} from '@chakra-ui/react'
 
 import { FormAddImage } from '../Form/FormAddImage';
 
